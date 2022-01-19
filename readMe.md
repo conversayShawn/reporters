@@ -30,7 +30,7 @@ For additional output, a custom reporter is recommended
 ### Final thoughts:
 Pros:
 - No installation necessary
-- Can run multiple specs without needing additonal plugins or tools 
+- Can run multiple specs without needing additional plugins or tools 
 
 Cons:
 - Output only rendered in terminal unless additional options are provided
