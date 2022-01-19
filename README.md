@@ -16,9 +16,8 @@ cd cypress-example-todomvc
 npm install
 ```
 
-## [Reporters](https://docs.cypress.io/guides/tooling/reporters) 
-*No plugins were used for this branch.*
-*branch: [main](https://github.com/conversaShawn/reporters/tree/mochawesome)*
+## [Reporters](https://docs.cypress.io/guides/tooling/reporters) *No plugins were used for this branch.*
+*branch: [reporters](https://github.com/conversaShawn/reporters/tree/reporters)*
 
 ## [Mochawesome](https://github.com/adamgruber/mochawesome)
 *branch: [mochawesome](https://github.com/conversaShawn/reporters/tree/mochawesome)*
