@@ -7,10 +7,10 @@ In each branch of this repo, I will test different commonly used plugins and pro
 ## Installation
 ```
 ## clone this repo to a local directory
-git clone https://github.com/<your-username>/cypress-example-todomvc.git
+git clone https://github.com/<your-username>/reporters.git
 
 ## cd into the cloned repo
-cd cypress-example-todomvc
+cd reporters/
 
 ## install the node_modules
 npm install
