@@ -18,7 +18,7 @@ npm install
 
 ## [Reporters](https://docs.cypress.io/guides/tooling/reporters) 
 *No plugins were used for this branch.*
-*branch: [main](https://github.com/conversaShawn/reporters/tree/mochawesome)*
+*branch: [main](https://github.com/conversaShawn/reporters/tree/reporters)*
 
 ### Run command:
 `npx cypress run --reporter {{reporter_option}}`
