@@ -1,4 +1,5 @@
 {
   "video": false,
-  "fixtures": false
+  "fixtures": false,
+  "reporter": "reporters/custom.js"
 }

@@ -16,8 +16,8 @@ cd reporters/
 npm install
 ```
 
-## [Reporters](https://docs.cypress.io/guides/tooling/reporters) *No plugins were used for this branch.*
-*branch: [reporters](https://github.com/conversaShawn/reporters/tree/reporters)*
+## [Custom Reporters](https://mochajs.org/api/tutorial-custom-reporter.html) *No plugins were used for this branch.*
+*branch: [customReporters](https://github.com/conversaShawn/reporters/tree/customReporters)*
 
 ### Run command:
 `npx cypress run --reporter {{reporter_option}}`
@@ -25,7 +25,7 @@ npm install
 > None
 
 ### Note:
-For additional output, a custom reporter is recommended
+Additional reporter options may override Mocha runner events
 
 ### Final thoughts:
 Pros:
