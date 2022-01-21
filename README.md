@@ -19,9 +19,11 @@ npm install
 ## [Reporters](https://docs.cypress.io/guides/tooling/reporters) *No plugins were used for this branch.*
 *branch: [reporters](https://github.com/conversaShawn/reporters/tree/reporters)*
 
+## [Custom Reporters](https://mochajs.org/api/tutorial-custom-reporter.html) *No plugins were used for this branch.*
+*branch: [customReporters](https://github.com/conversaShawn/reporters/tree/customReporters)*
+
 ## [Mochawesome](https://github.com/adamgruber/mochawesome)
 *branch: [mochawesome](https://github.com/conversaShawn/reporters/tree/mochawesome)*
 
 ## [Cypress-Mochawesome-Reporter](https://github.com/LironEr/cypress-mochawesome-reporter)
 *branch: [cypressMochawesomeReporter](https://github.com/conversaShawn/reporters/tree/cypressMochawesomeReporter)*
-
