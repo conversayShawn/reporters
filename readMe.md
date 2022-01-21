@@ -16,11 +16,11 @@ cd reporters/
 npm install
 ```
 
-## [Reporters](https://docs.cypress.io/guides/tooling/reporters) *No plugins were used for this branch.*
-*branch: [reporters](https://github.com/conversaShawn/reporters/tree/reporters)*
+## [Cypress-Mochawesome-Reporter](https://github.com/LironEr/cypress-mochawesome-reporter)
+*branch: [cypressMochawesomeReporter](https://github.com/conversaShawn/reporters/tree/cypressMochawesomeReporter)*
 
 ### Run command:
-`npx cypress run --reporter {{reporter_option}}`
+`npx cypress run --reporter cypress-mochawesome-reporter`
 ### Default directory:
 > None
 
@@ -29,8 +29,8 @@ For additional output, a custom reporter is recommended
 
 ### Final thoughts:
 Pros:
-- No installation necessary
+- Merges multiple specs in to single index.html
 - Can run multiple specs without needing additional plugins or tools 
 
 Cons:
-- Output only rendered in terminal unless additional options are provided
+- Installation a little more difficult than others reporters
