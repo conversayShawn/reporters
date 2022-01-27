@@ -5,3 +5,4 @@ cypress/plugins
 cypress/supports
 cypress/videos
 cypress/reports
+.DS_Store

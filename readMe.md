@@ -30,7 +30,7 @@ For additional output, a custom reporter is recommended
 ### Final thoughts:
 Pros:
 - Merges multiple specs in to single index.html
-- Can run multiple specs without needing additional plugins or tools 
+- Can run multiple specs without needing additional plugins or tools (as separate .json files per spec)
 
 Cons:
 - Installation a little more difficult than others reporters
