@@ -27,3 +27,6 @@ npm install
 
 ## [Cypress-Mochawesome-Reporter](https://github.com/LironEr/cypress-mochawesome-reporter)
 *branch: [cypressMochawesomeReporter](https://github.com/conversaShawn/reporters/tree/cypressMochawesomeReporter)*
+
+## [Mochawesome-Merge](https://github.com/antontelesh/mochawesome-merge)
+*branch: [mochawesomeMerge](https://github.com/conversaShawn/reporters/tree/mochawesomeMerge)*
