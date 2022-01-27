@@ -16,8 +16,8 @@ cd reporters/
 npm install
 ```
 
-## [Mochawesome](https://github.com/adamgruber/mochawesome)
-*branch: [mochawesome](https://github.com/conversaShawn/reporters/tree/mochawesome)*
+## [mochawesomeMerge](https://github.com/antontelesh/mochawesome-merge)
+*branch: [mochawesomeMerge](https://github.com/conversaShawn/reporters/tree/mochawesomeMerge)*
 ### Run command:
 `npx cypress run --reporter mochawesome`
 ### Default directory:

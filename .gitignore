@@ -4,4 +4,5 @@ cypress/fixtures
 cypress/plugins
 cypress/support
 cypress/videos
+cypress/report
 .DS_Store
