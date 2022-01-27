@@ -19,15 +19,18 @@ npm install
 ## [mochawesomeMerge](https://github.com/antontelesh/mochawesome-merge)
 *branch: [mochawesomeMerge](https://github.com/conversaShawn/reporters/tree/mochawesomeMerge)*
 ### Run command:
-`npx cypress run --reporter mochawesome`
+`npx cypress run --reporter mochawesome` followed by
+`npx mochawesome-merge cypress/report/mochawesome-report/*.json > cypress/report/output.json`
 ### Default directory:
-> /mochawesome-report
+> cypress/report/mochawesome-report
 
 ### Note:
-To use additional Mocha reporter options, the option needs to be called prior to `mochawesome` in your run command
-> `npx cypress run --reporter nyan mochawesome`
+To run both scripts sequentially, use the following command
+> `npm run merge`
 
 ### Final thoughts:
 Pros:
-- Simple to install
-- Needs additional plugins to combine specs in to single report 
+- Combines multiple reports into single report 
+
+Cons:
+- Can be confusing to install
