@@ -30,4 +30,4 @@ To use additional Mocha reporter options, the option needs to be called prior to
 ### Final thoughts:
 Pros:
 - Simple to install
-- Can run multiple specs without needing additional plugins or tools 
+- Needs additional plugins to combine specs in to single report 
