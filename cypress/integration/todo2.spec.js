@@ -11,7 +11,7 @@
 // please read our getting started guide:
 // https://on.cypress.io/introduction-to-cypress
 
-describe('example to-do app', () => {
+describe('example to-do app spec 2', () => {
   beforeEach(() => {
     // Cypress starts out with a blank slate for each test
     // so we must tell it to visit our website with the `cy.visit()` command.
@@ -79,7 +79,7 @@ describe('example to-do app', () => {
       .should('have.class', 'completed')
   })
 
-  context('with a checked task', () => {
+  describe('with a checked task spec 2', () => {
     beforeEach(() => {
       // We'll take the command we used above to check off an element
       // Since we want to perform multiple tests that start with checking

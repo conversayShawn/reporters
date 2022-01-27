@@ -20,7 +20,7 @@ npm install
 *branch: [customReporters](https://github.com/conversaShawn/reporters/tree/customReporters)*
 
 ### Run command:
-`npx cypress run --reporter {{reporter_option}}`
+`npx cypress run --reporter reporters/custom.js`
 ### Default directory:
 > None
 
