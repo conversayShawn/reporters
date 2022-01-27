@@ -1,5 +1,8 @@
 {
   "video": false,
   "fixtures": false,
-  "reporter": "cypress-mochawesome-reporter"
+  "reporter": "cypress-mochawesome-reporter",
+  "reporterOptions": {
+    "reportDir": "cypress/report"
+  }
 }
