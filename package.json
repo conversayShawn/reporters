@@ -1,0 +1,12 @@
+{
+  "name": "reporters",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/conversaShawn/reporters.git",
+  "author": "Shawn Harris <shawn.harris3510@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "cypress": "^12.1.0",
+    "cypress-qase-reporter": "^1.4.2-alpha.2"
+  }
+}
